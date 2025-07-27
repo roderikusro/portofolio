@@ -178,6 +178,15 @@ const CONFIG = {
       description:
         '',
     },
+     {
+      title: 'Publication Title',
+      conferenceName: 'Conference Name',
+      journalName: '',
+      authors: 'John Doe, Jane Smith',
+      link: 'https://example.com',
+      description:
+        '',
+    },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {

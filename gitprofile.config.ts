@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://upload.wikimedia.org/wikipedia/id/thumb/c/c3/Kimia_Farma_logo.svg/1200px-Kimia_Farma_logo.svg.png',
+          link: 'https://drive.google.com/drive/folders/1ZFsQ3v7L3HlCKr0pK-9kAdej73YkTWOa?usp=sharing',
         },
         {
           title: 'Project Name',

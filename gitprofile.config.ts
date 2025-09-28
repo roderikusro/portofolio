@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Rakamin Academy x Kimia Farma',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Data Analisis Bisnis Performa Kimia Farma 2020-2023.',
           imageUrl:
             'https://upload.wikimedia.org/wikipedia/id/thumb/c/c3/Kimia_Farma_logo.svg/1200px-Kimia_Farma_logo.svg.png',
           link: 'https://drive.google.com/drive/folders/1ZFsQ3v7L3HlCKr0pK-9kAdej73YkTWOa?usp=sharing',
